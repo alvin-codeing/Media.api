@@ -1,0 +1,65 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="TVP1.pl@SD",TVP1 (1080p)
+https://ec06-krk3.cache.orange.pl/dai4/org1/vb/104/tvp1hd/index.m3u8
+#EXTINF:-1 tvg-id="TVP1.pl@SD",TVP1 (1080p)
+https://estreams.tv.nej.cz/dash/CH_TVP1_Portable.ism/playlist.mpd
+#EXTINF:-1 tvg-id="TVP1.pl@SD",TVP1 (1080p)
+#EXTVLCOPT:http-referrer=https://vod.tvp.pl/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://raw.githubusercontent.com/travino/tvpi/main/streams/tvp1.m3u
+#EXTINF:-1 tvg-id="TVP1.pl@SD",TVP1 (1080p)
+https://redir.cache.orange.pl/dai4/org1/vb/104/tvp1hd/manifest.mpd
+#EXTINF:-1 tvg-id="TVP2.pl@SD",TVP2 (1080p)
+https://estreams.tv.nej.cz/dash/CH_TVP2_Portable.ism/playlist.mpd
+#EXTINF:-1 tvg-id="TVP2.pl@SD",TVP2 (1080p)
+#EXTVLCOPT:http-referrer=https://vod.tvp.pl/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://tvpi.travny.workers.dev/tvp2.m3u
+#EXTINF:-1 tvg-id="TVPInfo.pl@SD",TVP Info (1080p)
+https://lowa8026-cmyk.github.io/tvpvod/399699.m3u8
+#EXTINF:-1 tvg-id="TVPPolonia.pl@SD",TVP Polonia (1080p)
+https://lowa8026-cmyk.github.io/tvpvod/399723.m3u8
+#EXTINF:-1 tvg-id="TVPSport.pl@SD",TVP Sport (1080p)
+https://estreams.tv.nej.cz/dash/CH_TVP_SPORT_Portable.ism/playlist.mpd
+#EXTINF:-1 tvg-id="TVPWorld.pl@SD",TVP World (1080p)
+https://lowa8026-cmyk.github.io/tvpvod/399731.m3u8
+#EXTINF:-1 tvg-id="TVPWorld.pl@SD",TVP World (576p)
+https://lowa8026-cmyk.github.io/Poland/POLAIN.m3u8
+#EXTINF:-1 tvg-id="ALFATVP.pl@SD",ALFA TVP (576p)
+https://irylek.ct8.pl/stream/alfatvp
+#EXTINF:-1 tvg-id="Belsat.pl@SD",Belsat (576p)
+https://irylek.ct8.pl/stream/belsat
+#EXTINF:-1 tvg-id="TVP1.pl@HD",TVP 1 HD (1080p?)
+https://irylek.ct8.pl/stream/tvp1hd
+#EXTINF:-1 tvg-id="TVP2.pl@HD",TVP 2 HD (1080p?)
+https://irylek.ct8.pl/stream/tvp2hd
+#EXTINF:-1 tvg-id="TVP3Warzawa.pl@SD",TVP3 Warzawa (576p)
+https://irylek.ct8.pl/stream/tvp3warszawahd
+#EXTINF:-1 tvg-id="TVPABC.pl@SD",TVP ABC (576p)
+https://irylek.ct8.pl/stream/tvpabc
+#EXTINF:-1 tvg-id="TVPABC2.pl@SD",TVP ABC2 (576p)
+https://irylek.ct8.pl/stream/tvpabc2
+#EXTINF:-1 tvg-id="TVPDokument.pl@SD",TVP Dokument (576p)
+https://irylek.ct8.pl/stream/tvpdokument
+#EXTINF:-1 tvg-id="TVPHistoria.pl@SD",TVP Historia (576p)
+https://irylek.ct8.pl/stream/tvphistoria
+#EXTINF:-1 tvg-id="TVPHistoria2.pl@SD",TVP Historia 2 (576p)
+https://irylek.ct8.pl/stream/tvphistoria2
+#EXTINF:-1 tvg-id="TVPInfo.pl@SD",TVP Info (576p)
+https://irylek.ct8.pl/stream/tvpinfo
+#EXTINF:-1 tvg-id="TVPKultura.pl@SD",TVP Kultura (576p)
+https://irylek.ct8.pl/stream/tvpkultura
+#EXTINF:-1 tvg-id="TVPKultura2.pl@SD",TVP Kultura 2 (576p)
+https://irylek.ct8.pl/stream/tvpkultura2
+#EXTINF:-1 tvg-id="TVPNauka.pl@SD",TVP Nauka (576p)
+https://irylek.ct8.pl/stream/tvpnauka
+#EXTINF:-1 tvg-id="TVPPolonia.pl@SD",TVP Polonia (576p)
+https://irylek.ct8.pl/stream/tvppolonia
+#EXTINF:-1 tvg-id="TVPRozrywka.pl@SD",TVP Rozrywka (576p)
+https://irylek.ct8.pl/stream/tvprozrywka
+#EXTINF:-1 tvg-id="TVPSport.pl@SD",TVP Sport (576p)
+https://irylek.ct8.pl/stream/tvpsport
+#EXTINF:-1 tvg-id="TVPWilno.pl@SD",TVP Wilno (576p)
+https://irylek.ct8.pl/stream/tvpwilno
+#EXTINF:-1 tvg-id="TVPWorld.pl@SD",TVP World (576p)
+https://irylek.ct8.pl/stream/tvpworld
